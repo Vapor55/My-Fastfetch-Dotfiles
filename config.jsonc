@@ -51,6 +51,11 @@
   "keyColor": "#FFC0CB"
 },
 {
+  "type": "terminalfont",
+  "key": "│ Terminal Font:  ",
+  "keyColor": "#FFC0CB"
+},
+{
   "type": "lm",
   "key": "│ DM: 󰌾 ",
   "keyColor": "#FFC0CB"
